@@ -8,7 +8,7 @@ The following is a list of related papers,If any error, please open an issue.
 
 ---
 
-![image-20201112145320216](/Users/man/Library/Application Support/typora-user-images/image-20201112145320216.png)
+![image-20201112145320216](./outline.png)
 
 ## Survey
 
