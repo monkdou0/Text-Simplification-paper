@@ -8,7 +8,9 @@ The following is a list of related papers,If any error, please open an issue.
 
 ---
 
-![image-20201112145320216](./outline.png)
+![outline](./outline.png)
+
+
 
 ## Survey
 
@@ -46,13 +48,15 @@ The following is a list of related papers,If any error, please open an issue.
 
 **EASSE: Easier Automatic Sentence Simplification Evaluation** <font color=red>EMNLP2019</font> [pdf](https://www.aclweb.org/anthology/D19-3009/)
 
-**BLEU is Not Suitable for the Evaluation of Text Simplification** <font color=red>EMNLP2018</font> [pdf](https://www.aclweb.org/anthology/D18-1081/)
+**BLEU is Not Suitable for the Evaluation of Text Simplification** <font color=red>EMNLP2018</font> [pdf](https://www.aclweb.org/anthology/D18-1081/) [code](https://github.com/eliorsulem/HSplit-corpus)
 
-**Simple and Effective Text Simplification Using Semantic and Neural Methods** <font color=red>ACL2018</font> [pdf](https://www.aclweb.org/anthology/P18-1016/)
+**Semantic Structural Evaluation for Text Simplification**  <font color=red>NAACL2018</font> [pdf](https://www.aclweb.org/anthology/N18-1063/) [code](https://github.com/eliorsulem/SAMSA)
 
-**Benchmarking Lexical Simplification Systems** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/L16-1491/)
+**Benchmarking Lexical Simplification Systems** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/L16-1491/) [code](https://github.com/ghpaetzold/LEXenstein)
 
-**Optimizing Statistical Machine Translation for Text Simplification** <font color=blue>TACL2016</font>  [pdf](https://www.aclweb.org/anthology/Q16-1029/)
+**Optimizing Statistical Machine Translation for Text Simplification** <font color=blue>TACL2016</font>  [pdf](https://www.aclweb.org/anthology/Q16-1029/)  [code](https://github.com/cocoxu/simplification)
+
+
 
 ---
 
@@ -70,19 +74,31 @@ The following is a list of related papers,If any error, please open an issue.
 
 **PLUJAGH at SemEval-2016 Task 11: Simple System for Complex Word Identification** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/S16-1146/)
 
+**UWB at SemEval-2016 Task 11: Exploring Features for Complex Word Identification** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/S16-1162/)
+
+**LTG at SemEval-2016 Task 11: Complex Word Identification with Classifier Ensembles** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/S16-1154/)
+
 **A Simple Word Embedding Model for Lexical Substitution**  <font color=red>ACL2015</font> [pdf](https://www.aclweb.org/anthology/W15-1501/)
 
 **Simplifying Lexical Simplification: Do We Need Simplified Corpora?**  <font color=red>ACL2015</font> [pdf](https://www.aclweb.org/anthology/P15-2011/)
 
 **LEXenstein: A Framework for Lexical Simplification** <font color=red>ACL2015</font> [pdf](https://www.aclweb.org/anthology/P15-4015/)
 
+**Text Simplification as Tree Transduction**  <font color=red>ACL2013</font> [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.393.9757&rep=rep1&type=pdf)
+
 **Selecting Proper Lexical Paraphrase for Children** <font color=red>ACL2013</font> [pdf](https://www.aclweb.org/anthology/O13-1007/)
+
+**The CW Corpus: A New Resource for Evaluating the Identi cation of Complex Words**  <font color=red>ACL2013</font> [pdf](https://www.aclweb.org/anthology/W13-2908/)
 
 **UOW-SHEF: SimpLex – Lexical Simplicity Ranking based on Contextual and Psycholinguistic Features** <font color=red>ACL2012</font> [pdf](https://www.aclweb.org/anthology/S12-1066/)
 
 **Putting it Simply: a Context-Aware Approach to Lexical Simplification** <font color=red>ACL2011</font> [pdf](https://www.aclweb.org/anthology/P11-2087/)
 
+**For the sake of simplicity: Unsupervised extraction of lexical simplifications from Wikipedia** <font color=red>NAACL2010</font> [pdf](https://www.aclweb.org/anthology/N10-1056/)
+
 **Mining a Lexicon of Technical Terms and Lay Equivalents**   <font color=red>ACL2007</font> [pdf](https://www.aclweb.org/anthology/W07-1007/)
+
+**The Unified Medical Language System (UMLS): integrating biomedical terminology**   [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/)
 
 ---
 
@@ -96,9 +112,13 @@ The following is a list of related papers,If any error, please open an issue.
 
 
 
-## text generation
+## Machine learning
 
 ### statistical machine translation
+
+ **Hybrid simplification using deep semantics and machine translation**  <font color=red>ACL2014</font> [pdf](https://www.aclweb.org/anthology/P14-1041.pdf)
+
+**Sentence Simplification by Monolingual Machine Translation** <font color=red>ACL2012</font> [pdf](https://www.aclweb.org/anthology/P12-1107.pdf)
 
 **Learning to Simplify Sentences Using Wikipedia**  <font color=blue>arXiv2011</font>  [pdf](https://www.aclweb.org/anthology/W11-1601/)
 
@@ -110,17 +130,19 @@ The following is a list of related papers,If any error, please open an issue.
 
 **Iterative Edit-Based Unsupervised Sentence Simplification** <font color=red>ACL2020</font> [pdf](https://www.aclweb.org/anthology/2020.acl-main.707/)
 
-**Controllable Text Simplification with Lexical Constraint Loss** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-2036/)
-
 **EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-1331/)
 
 **Integrating Transformer and Paraphrase Rules for Sentence Simplification** <font color=red>EMNLP2018</font> [pdf](https://www.aclweb.org/anthology/D18-1355/)
 
  **A Detailed Evaluation of Neural Sequence-to-Sequence Models for In-domain and Cross-domain Text Simplification**  <font color=red>ACL2018</font> [pdf](https://www.aclweb.org/anthology/L18-1479/)
 
-**Learning Simplifications for Specific Target Audiences**   <font color=red>ACL2018</font> [pdf](https://www.aclweb.org/anthology/P18-2113/)
+**Reference-less Quality Estimation of Text Simplification Systems**  <font color=red>ATA 2018</font> [pdf](https://www.aclweb.org/anthology/W18-7005.pdf)
 
 **Simple and Effective Text Simplification Using Semantic and Neural Methods** <font color=red>ACL2018</font> [pdf](https://www.aclweb.org/anthology/P18-1016/)
+
+**Dynamic Multi-Level Multi-Task Learning for Sentence Simplification**  <font color=red>COLING2018</font> [pdf](https://arxiv.org/pdf/1806.07304.pdf)
+
+**Exploring Neural Text Simplification Models**  <font color=red>ACL2017</font> [pdf](https://www.aclweb.org/anthology/P17-2014.pdf)
 
 **Text Simplification as Tree Labeling** <font color=red>ACL2016</font> [pdf](https://www.aclweb.org/anthology/P16-2055/)
 
@@ -132,7 +154,7 @@ The following is a list of related papers,If any error, please open an issue.
 
 **Unsupervised Neural Text Simplification** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-1198/)
 
-**Exploring Neural Text Simplification Models**  <font color=red>ACL2017</font> [pdf](https://www.aclweb.org/anthology/P17-2014.pdf)
+
 
 ---
 
@@ -152,7 +174,15 @@ The following is a list of related papers,If any error, please open an issue.
 
 ---
 
+##Controllable Text Simplification
 
+**Controllable Text Simplification with Lexical Constraint Loss** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-2036/)
+
+**Controllable Sentence Simplification** <font color=red>Arxiv2019</font> [pdf](https://arxiv.org/pdf/1910.02677.pdf)
+
+**Learning Simplifications for Specific Target Audiences**   <font color=red>ACL2018</font> [pdf](https://www.aclweb.org/anthology/P18-2113/)
+
+   
 
 ## Application
 
