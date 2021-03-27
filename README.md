@@ -22,6 +22,14 @@ The following is a list of related papers,If any error, please open an issue.
 
 ---
 
+## Leaderboard
+
+**Text simplification on TurkCorpus** [link](https://paperswithcode.com/sota/text-simplification-on-turkcorpus)
+
+**Text simplification on ASSET** [link](https://paperswithcode.com/sota/text-simplification-on-asset)
+
+---
+
 
 
 ## data augmentation
@@ -45,6 +53,8 @@ The following is a list of related papers,If any error, please open an issue.
 
 
 ## evaluation metric
+
+**The GEM Benchmark:Natural Language Generation, its Evaluation and Metrics** <font color=red>Arxiv2021</font> [pdf](https://arxiv.org/abs/2102.01672)
 
 **EASSE: Easier Automatic Sentence Simplification Evaluation** <font color=red>EMNLP2019</font> [pdf](https://www.aclweb.org/anthology/D19-3009/)
 
@@ -152,6 +162,14 @@ The following is a list of related papers,If any error, please open an issue.
 
 ### unsupervised learning
 
+**Multilingual Unsupervised Sentence Simplification** <font color=red>Arxiv2020</font> [pdf](https://arxiv.org/abs/2005.00352) 
+
+**CUT: Controllable Unsupervised Text Simplification** <font color=red>Arxiv2020</font> [pdf](https://arxiv.org/abs/2012.01936)
+
+**Semi-Supervised Text Simplification with Back-Translation and Asymmetric Denoising Autoencoders** <font color=red>AAAI2020</font> [pdf](https://arxiv.org/abs/2004.14693)
+
+**Zero-Shot Crosslingual Sentence Simplification** <font color=red>EMNLP2020</font>   [pdf](https://www.aclweb.org/anthology/2020.emnlp-main.415/)
+
 **Unsupervised Neural Text Simplification** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-1198/)
 
 
@@ -175,6 +193,8 @@ The following is a list of related papers,If any error, please open an issue.
 ---
 
 ##Controllable Text Simplification
+
+**Controllable Text Simplification with Explicit Paraphrasing** <font color=red>Arxiv2020</font> [pdf](https://arxiv.org/abs/2010.11004)
 
 **Controllable Text Simplification with Lexical Constraint Loss** <font color=red>ACL2019</font> [pdf](https://www.aclweb.org/anthology/P19-2036/)
 
